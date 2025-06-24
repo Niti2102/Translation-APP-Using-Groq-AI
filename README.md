@@ -1,6 +1,4 @@
-Here's a `README.md` for your **Translation App using Groq AI and Streamlit**:
 
----
 
 # 🌐 Translation App using Groq AI
 
@@ -104,9 +102,8 @@ langchain_groq
 
 ---
 
-## 📜 License
-
-MIT License
+📄 License
+© All rights reserved: Nitish
 
 ---
 
